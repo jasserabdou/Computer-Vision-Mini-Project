@@ -1,1 +1,0 @@
-# Computer-Vision-Mini-Project
